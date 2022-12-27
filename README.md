@@ -2,7 +2,7 @@
 
 TextUtils is a word counter and a character  counting Utility which can be used to maniputed our text in the way you want. you can  remove exatra Spaces or copy to manipuleted text as well as convert  your text from Uppercase to lowercase and lowercase to uppercase "
 
-## Visit : <a href='https://reactmytextutils.netlify.app/'>Visit</a>
+## Visit : <a href='https://reactmytextutils.netlify.app/'>My Application</a>
 
 
 ## Available Scripts
